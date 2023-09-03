@@ -4,7 +4,8 @@
   "description": "web scraping proyect with parrolabs blogs",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "download": "node src/download.js"
   },
   "keywords": ["webscraping", "nodejs", "javascript", "csv", "json"],
   "author": "varmiguemunoz <varmiguemunoz@gmail.com>",
