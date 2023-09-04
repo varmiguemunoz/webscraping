@@ -1,0 +1,102 @@
+[
+  {
+    "date": "July 30, 2020",
+    "shortDescription": "An Article to open a discussion as we feel most SEO issues that we encounter are technical seo",
+    "path": "/blog/2020-07-30-believe-me-most-seo-issues-are-technical",
+    "title": "Believe Me Most SEO Issues Are Technical!",
+    "details": [
+      {
+        "fullDescription": [
+          "So you have hired this SEO guy from the Internet. So he is an expert in Copy and while your team had done some SEO keyword research, none of the keywords are showing up. You are getting upset and decide to hire someone that came recommended to fix your SEO issues.",
+          "Yes, the world of SEO is definitely getting more complicated and for a Web Development Agency like Parrolabs, it is something that we have to Monitor Closely. The most important changes that were announced in the period 2017 until the middle of 2020 are:",
+          "I am convinced (although any evidence is missing) that Google will rank your site higher if you are showing to them your page is able to handle more traffic. Nothing frustrates Google more than to link to pages that will crash under traffic. If you rewind the clock 15-20 years, it was not uncommon for servers to crash. While Autoscaling Cloud Environments have changed all off that, not everybody is using it. The fact that Google is now ranking pages by Loading Speed and Page Speed are described on their Blog here: Speed is now a landing page factor for Google Search and Ads | Web​ ",
+          "The jury is still not out if Structured Data or Schema.org is a ranking factor. Some blogs suggest that it is not (Is Schema Markup a Ranking Factor for SEO or Not? - RankWatch Blog), while others are suggesting it is (How Schema Affects SEO). Overall, we feel there are some positive aspects of using it. So, we would recommend it as an extra push, but not as an absolute requirement. So while there are many ranking factors, the most important is Speed. Also, we think that there are many others that are more important than the exact phrase that you need to use. That being said, keyword research is definitely not something to ignore.",
+          "The actual loading speed of a website is very important. Many websites run on servers that are single VPS. While, this is not necessarily a bad thing. Chances are that your site is also running a number of Plugin Processes and the bad thing about that is that your server might be under heavy load cause of these processes. This will affect your SEO heavily. We are recommending every",
+          "We see a lot of small issues with URLs including redirects. You need to pay attention to the fact that sometimes URLs are duplicated and this is bad for SEO. Luckily the free Google Webmasters - Resources to Track Website & Search Performance has a nifty tool to see if this is the case. Pay attention to your Coverage Report in the Google Search Console",
+          "This is an important Aspect and Oftentimes overlooked. If your HTML is not showing, it is not necessarily bad, but if you are using React or Gatsby or any other Single Page App (SPA), we would recommend having a look at predendering. See also here Vue.js SEO-Friendly SPAs: Tips, Tools & Prerender Example - Snipcart",
+          "Admitting, this does not happen a lot, but we’ve seen it in the past. This one is like very basic, as every site needs to have a document called “robots.txt”. As we are working with a system called Git, it can happen that we want to have the Robots.txt in our Staging Environment to block all crawlers, so it does not show up in Google. However, in a clumsy moment and not QA-ing well the production it can happen that Google will not index it, like ever…whatever you do.So if you are struggling with your SEO. Do not hesitate to give us a call and see what we can do for you!"
+        ]
+      },
+      {
+        "writtenBy": "Written by Niels Siskens"
+      }
+    ]
+  },
+  {
+    "date": "July 16, 2020",
+    "shortDescription": "Is technology ruining our capability as humans to interact with each other?",
+    "path": "/blog/2020-07-16-love-in-the-times-of-technology",
+    "title": "Love In The Times Of Technology",
+    "details": [
+      {
+        "fullDescription": [
+          "This quarantine has us all analyzing what the best way to spend our time at home is and how to make the most out of it, but are we really spending our time in a healthy and productive manner?",
+          "",
+          "For those living with their partners, are you using this time to bond, to help, to serve as a companion, to show appreciation and love? Or are you self-isolating in your own personal interests, and using this time as a valid excuse to run away from your responsibilities?",
+          "",
+          "We are currently facing a different issue that many people may not be aware of. Many of us don’t know how to actually be present in the moment, we don’t know how to show appreciation for others, and we don’t have patience to deal with other’s emotions. People are filing for divorce over simply having to spend too much time with their romantic partners, which I think is a bit lunatic. Intimacy isn’t just about sex and romance; intimacy is about sharing, about supporting each other, getting to know each other, and trusting one another.",
+          "",
+          "It is evident that technology has made it easier to stay connected to the world, but how important is it to check our phones regularly and compulsively from the moment we open our eyes until the moment we fall asleep? Are we actually spending time with our families without the distraction of incoming messages? We are constantly wanting to be connected, and informed, but we are making those physically around us feel lonely in our presence due to the constant need of being tuned into our online conversations. This feels a little bit off to me. If the idea is to stay connected, why are we ignoring those who are there for us to talk to?",
+          "",
+          "Is technology ruining our capability as humans to interact with one another? As social beings, do we really feel more comfortable with virtual contact rather than with  handshakes and hugs? Are we being trained to lose our essence, our empathy, and are we finally becoming robots? Have we resisted our nature for so long already that we can no longer relate to feelings? I say, fuck you all, fuck your phones and fuck your shallow minds that don’t even let you live in the moment...now! Because that’s all we have! Being present, being here and now!",
+          "What are your thoughts?!"
+        ]
+      },
+      {
+        "writtenBy": "Written by Laura Cotes"
+      }
+    ]
+  },
+  {
+    "date": "July 09, 2020",
+    "shortDescription": "How we helped an NGO in Medellin improve their Technology.",
+    "path": "/blog/2020-07-09-how-has-technology-helped-you-build-your-business",
+    "title": "How Has Technology Helped You Build Your Business",
+    "details": [
+      {
+        "fullDescription": [
+          "Hi, my name is Adam Armfield and I am the founder and CEO of a 3D printing business (Universo 3D) and also a non profit called Humanos3d.org in Medellin, Colombia. 3D printing is a hot topic and one of today’s most exciting and disruptive technologies. It is pushing the boundaries of many industries with advances in areas as diverse as biotechnology, aviation to arts and science. It’s rapidly becoming a core technology and is being integrated into STEM and Universities subjects on a global scale. Today I will highlight how my team at Humanos 3D uses this technology to positively impact the lives of those affected by Colombia’s ongoing civil war.",
+          "We design and fabricate 3D printed prosthetics and robotics and recently, in reaction to the COVID-19 Crisis, we rapidly adapted our work processes to fabricate personal protective equipment and prototype parts for ventilators to donate to under-resourced hospitals within Colombia. A key part of running a non profit is prospecting and developing strategic relations to enable us to reach those in need and also to identify and build partnerships that allow us to fund our work. The second part of this blog will look at how we applied specific online prospecting and technology tools to take our fundraising and awareness-raising to the next level.",
+          "3D-printed prosthetics are changing the face of medicine, as engineers, physicians and even students are able to develop prosthetics that are fully customized to the wearer. Consumer 3D printing is leading to an even bigger revolution: \"DIY\" assistive devices that can be printed by virtually anyone, anywhere. Humanos 3D works alongside e-Nable which is a network of passionate volunteers using 3D printing to give the World a \"Helping Hand.\" Besides 3D printing technology, what has really driven this movement is the open-source technology and designs.",
+          "Every new invention can be replicated, tested and improved in a matter of days if not hours at minimal costs. Traditional methods of fabrication can take months and cost 10’s of thousands of dollars in design and production costs. A normal prosthetic can cost anywhere from US$5000 to US$150,000 dollars and take 6 months or more to deliver. Using 3D printing, volunteers and open-source designs, we have reduced this time to a matter of days and reduced costs to less than a thousand dollars. This is just one sign of the power of 3d printing in the 4th industrial revolution.",
+          "Even with volunteers and open-source designs, we still have operational costs like any organization and logistical problems. 2 of the key problems that we faced were being able to find people in need in remote and war-torn locations. Many of these potential clients (we use this term loosely as all of our devices are donated and we never charge the recipients) are from rural areas with limited resources and access to technology. This presents 2 unique problems. Firstly they may never know we exist and secondly, it can be costly to travel across Colombia on several occasions to take measurements and receive training. The other issue we face is securing funding to cover the costs of the prosthetics and travel for those who are in need. We also provide transport and accommodation. Lack of funds to pay for a bus or hotel has restricted many of Colombia’s poorest people from ever receiving an assistive device.",
+          "We recently worked with Laura Cotes from Parrolabs to assist us with new strategies to address these 2 key issues. Awareness raising and FundRaising. Using a set of digital prospecting and online tools which are provided by Parrolabs, we were able to identify and contact hundreds of high-value contacts. Traditionally we had 2 full-time volunteers researching organizations, writing grant applications and follow-ups. This is an extremely time consuming and lengthy process with a very low success rate especially for start-up nonprofits. Within weeks of utilizing Parrolabs prospecting tools, we were having direct conversations with the right people in organizations that aligned with our values and needs. Within 3 months of utilizing these tools, we had developed more strategic relations (which we utilized to achieve our awareness and fundraising goals) than 3 years of work!",
+          "Technology can help us improve on costs and delivery outcomes in manufacturing. It can also accelerate our efforts in crucial areas such as partnership building, fundraising, awareness-raising and marketing.What are your organization's current goals and how has technology impacted your workflow? Leave your comments below or contact Parrolabs to see how they can potentially take your organization to the next level using some of today’s most powerful technology tools. If you would like to see more of our work please visit us at Humanos3d on Facebook and Instagram or www.humanos3d.org. If you would like to make a donation we accept most forms of payment https://humanos3d.org/en/donate/. Give us a hand and we promise to give many more."
+        ]
+      },
+      {
+        "writtenBy": "Written by Adam Armfield"
+      }
+    ]
+  },
+  {
+    "date": "June 26, 2020",
+    "shortDescription": "Netlify is one of the most solid hosting options in the market, this article may help.",
+    "path": "/blog/2020-06-26-netlify-a-surprisingly-solid-hosting-option",
+    "title": "Netlify A Surprisingly Solid Hosting Option",
+    "details": [
+      {
+        "fullDescription": [
+          "Those of you who have been following our blog over the last couple of years know our love for AWS and GCP. However, we also want to give other companies an opportunity in this space.",
+          "Hence we decided to give the integration with Sanity.io (our CMS) and Netlify a try. For those who have no idea what we are talking about, a small introduction. Since a 6-months we have switched to another CMS, which we chose Sanity.io. There are many options, but being a firm believer in a headless CMS, given that this will almost certainly increase our pagespeed score and thus result in (way) better results in SEO. After chasing a CMS, you will need to choose what Front-end Framework you want to use. We chose for a simple Gatsby Framework as we only have public displayable pages.",
+          "Then comes the hosting and as you can imagine there are many options. First, let me tell you that “Free” or “Cheap Hosting” where we started many years ago, is almost certainly going to hurt your results. Their business model is to get as many sites as possible on a single server in order to maximize profits. That is there good right and in many cases this is not necessarily a bad thing. Think websites that are build for Hobby pages. However, for any more serious sport or hobby organization a bigger hosting is oftentimes needed as there is a huge fluctuation of visitors as people might be checking sporting scores during the weekend, but your site might be getting a lot less traction during the week. Those hosting options traditionally start at around $15 USD for a single ubuntu instance.",
+          "However, these days a new option is on the market, which is called server less. There are many options there from the more technically advanced do it yourself inside AWS to the more User Friendly Options including netlify. We have given it a try and here is our conclusion:",
+          "1) The Hosting is Solid, it comes with many options including Form Processing (including a spam Filter), a solid CDN and CI is working as expected",
+          "2) The setup was easy and we setup staging and production in less than 30 minutes using Github",
+          "3) Forms can be integrated with our CRM (Yaaaaaay!)",
+          "4) There is a solid Spam Filter on all Form Submissions so we do not need to filter (although on occasion some spam slips through)",
+          "5) It is cheap",
+          "6) It uses AWS infrastructure and is thus very solid",
+          "1) There are weird charges for Build Minutes and we have not been able to see how we could speed that up. Expect to spend $20-$40 USD per month during the build phase",
+          "2) Extra Members also cost more money ($15 USD per member)",
+          "3) When scaling we expect the charges to go up significantly",
+          "4) We do see a variation in performance, which is a concern to us. Sometimes, the site is blazingly fast with response times of <200MS, but other times it is over >600MS. Both are still sort of acceptable, but we are concerned about the ups and downs. This might have to do with traffic hitting the server throughout the day, but for us it be better to have it stable.",
+          "Overall, we want to see why sometimes the loading times are not on par. That being said, when opening the site in any browser it feels snappy. I think that Netlify is a solid option for most situations."
+        ]
+      },
+      {
+        "writtenBy": "Written by Niels Siskens"
+      }
+    ]
+  }
+]

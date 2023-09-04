@@ -10,10 +10,11 @@ const scraping = async () => {
   });
 
   const page = await browser.newPage();
+  page.setDefaultNavigationTimeout(120000);
   let currentPage = 1; // Número de página inicial
 
   while (true) {
-    const url = `http://localhost:8000/blog/${currentPage}`;
+    const url = `https://d2gyiz1l4kzlah.cloudfront.net/blog/${currentPage}`;
     await page.goto(url);
 
     const data = await page.evaluate(() => {
@@ -37,7 +38,7 @@ const scraping = async () => {
     const resultsDetails = [];
 
     for (const blog of data) {
-      await page.goto(`http://localhost:8000${blog.path}`);
+      await page.goto(`https://d2gyiz1l4kzlah.cloudfront.net${blog.path}`);
 
       await page.waitForSelector(".article-info");
       await page.waitForSelector(".body-container");

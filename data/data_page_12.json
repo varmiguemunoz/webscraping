@@ -1,0 +1,122 @@
+[
+  {
+    "date": "October 27, 2021",
+    "shortDescription": "Monolithic applications are applications that are running on the same server and all the calls it makes are local. ",
+    "path": "/blog/2021-10-27-monolithic-and-headless",
+    "title": "Monolithic & Headless",
+    "details": [
+      {
+        "fullDescription": [
+          "Monolithic applications are applications that are running on the same server and all the calls it makes are local. While headless applications are applications that have the frontend separated from the backend, thus allowing to remove the server overhead.",
+          "It is not appropriate to say that one is being used more than the other, in what I have been working as a developer, the 2 types of systems are very required since large monolithic platforms allow faster development, for clients who are only looking for a website or a Simple e-commerce, based on templates, but on the other hand there are also clients who need more robust web applications and who require headless systems for higher performance.",
+          "Monolithic Systems",
+          "In this case, the frontend and the backend are closely linked and inseparable. The monolithic CMS interface accesses content from a backend database, and then this content is used within the website design. By default, from a design and presentation perspective, all content is transferred to the platform.",
+          "Headless Systems",
+          "The term 'headless' comes from the concept of cutting off the 'head' (the front-end, that is, the website or application) from the 'body' (the back-end, that is, the content repository, the database, etc.). Therefore, a headless CMS is a back-end only CMS built from the ground up as a content repository that delivers database content (SQL and NoSQL) and files to any platform or device via API.",
+          "A headless CMS remains with an interface to manage content and a RESTful or GraphQL API to deliver content where you need it. The main focus of the Headless CMS is to store and deliver structured content and allow content publishers to collaborate on new content. In a headless CMS, the responsibility for the presentation and design of the content is given to the distribution channels. Due to this approach, a headless CMS doesn't care about how and where its content is displayed. Allow each channel to represent content in its own individual way.",
+          "Differences",
+          "There are a number of differences between monolithic systems and a headless system, including:"
+        ]
+      },
+      {
+        "writtenBy": "Written by Julian Alzate"
+      }
+    ]
+  },
+  {
+    "date": "October 07, 2021",
+    "shortDescription": "Front-End Development has changed significantly in the last decade. \n\n\n\n\n\n",
+    "path": "/blog/2021-10-07-top-5-most-popular-front-end-frameworks-for-web-development-of-fall-2021-spring-2022",
+    "title": "Top 5 most popular Front-End Frameworks - Fall 2021 - Spring 2022",
+    "details": [
+      {
+        "fullDescription": [
+          "Front-End Development has changed significantly in the last decade. With new Frameworks popping up to facilitate Mobile Responsiveness, as well as more modern headless frameworks.",
+          "Here are the most popular front-end frameworks and the ones that our team at Parrolabs feels will have the best future.",
+          "1. React & React Native​",
+          "It is hard to bet against a Framework that is being backed by Facebook. This opensource framework is the absolute standard in Web Development these days and we expect its popularity to not wane for many years to come. As its sister framework - React Native - can be used for Native App Development, it will be a good choice for startups and companies on a tight budget for the foreseeable future.",
+          "2. Gatsby JS",
+          "It might be a surprise that this one will make it to the list. It is a framework that will make your websites blazingly fast. We recently turned one of our clients websites - called playershealth into an instant UX dream by leveraging the new Gatsby4.0 framework. While this is a static site generator, it deserves a place in this list as it keeps things simple and can be integrated with React and other frameworks. If you want your site to be extremely fast and perform well in SEO, than I would say Gatsby is the way forward.",
+          "3. Next JS​",
+          "This one for sure deserves a place in this list. You might wonder what is the benefit over pure React or why use Next if we can use Gatsby. Well, where Gatsby leaves us with purely rendered HTML & CSS, NextJS will allow us to render HTML & CSS at runtime. Some more detailed benefits and differences can be found in this great article.",
+          "​I would say Next is potentially the future. Some of our clients that currently work with NextJS include Bespoke Blossoms and Misfit. ",
+          "4. Vue JS & Vue Native​I",
+          "Would argue that VueJS is as good as React. However, it lacks the backing (and the marketing) of a Facebook. This framework is really backed by a large community of smaller companies, developers and other tech people. I would argue that it is the wordpress of Front-End Development Frameworks. It has great potential for the future​.",
+          "5. Ember JS",
+          "​Ember is a framework that belongs in this list. While having a much smaller community than React or VueJS, it deserves to have a spot in this list. In our opinion, we prefer using React or Gatsby, but that is more preference. Ember has a great community as well and therefore belongs in this list.​",
+          "What happened to Angular? Well, while it is a great option still. I would argue that other frameworks have taken the lead. As such we will give it an honorable mention, but we would recommend going with one of the other frameworks."
+        ]
+      },
+      {
+        "writtenBy": "Written by Niels Siskens"
+      }
+    ]
+  },
+  {
+    "date": "September 28, 2021",
+    "shortDescription": "Please, useCallback: is rerendering again and again without need.",
+    "path": "/blog/2021-09-28-please-usecallback",
+    "title": "Please, useCallback",
+    "details": [
+      {
+        "fullDescription": [
+          "If you’re a junior/mid-level developer, usually you don’t care too much about performance at the beginning when you’re creating a ReactJS component, that’s why I just want to put on the table this topic in order to improve your code since the first lines of code.",
+          "What is useCallback?",
+          "First we have to define this concept if you’re not familiar with the it, useCallback is a ReactJS Hook, if you want to go deeper go here​.",
+          "I can’t get a better explanation rather than the official one:",
+          "but first, if you’re not familiar with the expression memoized , let’s just say that is a technique to speed up expensive processes, I’ll explain this more in a bit.",
+          "",
+          "So, the code above is the syntax, a function that receives a function and an array of inputs or dependencies.",
+          "Let’s explain what we’ll get, as you might guess, the outcome of the function is a memoized version of the first parameter (the function) and during the lifecycle of the component you’ll get the same cached reference to the function at least until the input a or b changed. In other words, if a or b changes, you’ll get a new version of the function, this enables you to have a optimized component because you’re not allocating a new function (the annonymous function which has the`doSomething()` call), every time the component renders.",
+          "That’s easy, you’ll get a single and unique reference to the function that it’s going to be ready as soon as the component is created, and it’ll keep the same reference during the lifecycle of the component.",
+          "Just be aware that every function is not suitable for useCallback , this is not a silver bullet, keep in mind all the inputs or dependencies you have; this hook could become a good friend but also a pain in the butt."
+        ]
+      },
+      {
+        "writtenBy": "Written by Dair Diaz Rambao"
+      }
+    ]
+  },
+  {
+    "date": "September 09, 2021",
+    "shortDescription": "Basic UX review: airline case study",
+    "path": "/blog/2021-09-09-basic-ux-review-airline-case-study",
+    "title": "Basic UX review: airline case study - part 1",
+    "details": [
+      {
+        "fullDescription": [
+          "The demand for UX has increased considerably in the last few years. Companies rush to create products that meet the demands of its users, and big organizations often have large teams and resources to focus solely on UX. What about a one man team? As it is common in UX research, there is little to no resources for testing and very limited time. We’ll review a case study on how to tackle a really bare bones UX review of an existing digital product.",
+          "In this first part we will start with setting the framework for the process and analyzing the user flow of the task at hand, but first let's set some rules. The main focus will be on a low cost airline based in Colombia and its website is the product to review. The idea is to limit the scope of the analysis to only a single aspect of the site, also using what is called opinion mining with online reviews as our source of user data. Let's begin.",
+          "PROBLEM",
+          "This airline has a common low-cost airline strategy when managing its services, starting with a basic fare for the ticket and multiple tiers that add additional services, such as extra bags.",
+          "Another important part of its revenue comes from extra services that offer a better experience for the user, such as sittings with more space and express boarding and insurance. They aim to increase one of its major KPIs: Additional services sales through the web channel. As of now, the airline has noticed a significant drop-out rate in the purchase flow in this specific stage, and they are willing to begin a redesign process to provide an enhanced experience that increases business performance.",
+          "The process is the following:",
+          "USER FLOWS",
+          "This Simple framework in phases will analyze the situation and define what needs to improve, allowing for iteration of the design to finally arrive at a final delivery.",
+          "What you are seeing is the diagram for the user interaction on the current website, in this first part the user must:",
+          "The airline has 3 tiers for the type of ticket, offering different experiences depending on the price: BASE, MEDIUM and FULL.",
+          "This second part shows us the data needed for the personal information form and gives us an option for people with special needs.",
+          "Further, the main part of the flow will be the focus of our analysis. The option for extra services and insurance represents the main source of income for this airline, so in order to improve the dropout rate and to increase the sale of these services, the focus of our hypothesis will be in this section.",
+          "OPINION MINING",
+          "Due to limitations in this scenario, it is not possible to have actual user interviewees to understand more thoroughly their opinions on the services.",
+          "However, it is possible to use user reviews to get insight of the experiences of users (this process is",
+          "called opinion mining) in this case using trip advisor as a source. This allows us to understand pain points and emotional reactions to experiences of the product from a firsthand perspective, whether they are positive or negative.",
+          "This allows us to have a human centered design approach to the reviews and a better understanding of the main cause of their reaction.",
+          "HUMAN CENTERED DESIGN",
+          "Users desire the cheapest price possible, but they do not take into account the considerations and conditions for the specific type of price tier.",
+          "They have negative experiences due to the clarity surrounding the value and offerings of a certain ticket tier.",
+          "Users avoid inquiring more about the services in the moment of purchase or deselecting the extra services, because the value is not expressly shown to them.",
+          "This approach to problem solving will allow us to eliminate bias and subjective positions regarding our analysis.",
+          "With the conclusions from the reviews, it is necessary to focus on the problem rather than the specific case of the reviewer. This situation can also present itself when hearing requirements from stakeholders or directly from users, our analysis must focus on the problem at the core of the product.",
+          "Using a human centered approach to problem solving will allow us to “translate” any conclusion that may come out of our analysis, into a hypothesis that we can understand and target the main pain points which allow us to get the necessary criteria to continue our review of the website.",
+          "HYPOTHESIS",
+          "We have reached the hypothesis and at the end of the first part of our bare bones UX review, we have analyzed user data, user flows and hypothesis.",
+          "In the following weeks we will be continuing with benchmarking, expert review and some conclusions."
+        ]
+      },
+      {
+        "writtenBy": "Written by Juan David Rivera"
+      }
+    ]
+  }
+]

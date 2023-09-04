@@ -9,8 +9,9 @@ const scraping = async () => {
   });
 
   const page = await browser.newPage();
+  page.setDefaultNavigationTimeout(120000);
 
-  await page.goto("http://localhost:8000/blog/3");
+  await page.goto("https://d2gyiz1l4kzlah.cloudfront.net/blog/7");
 
   const data = await page.evaluate(() => {
     const elements = document.querySelectorAll(".card-article");
@@ -34,7 +35,7 @@ const scraping = async () => {
 
   // Ciclo para ingresar a cada página
   for (const blog of data) {
-    await page.goto(`http://localhost:8000${blog.path}`);
+    await page.goto(`https://d2gyiz1l4kzlah.cloudfront.net${blog.path}`);
 
     // Esperando la respuesta del sitio web
     await page.waitForSelector(".article-info");

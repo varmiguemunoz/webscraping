@@ -1,0 +1,139 @@
+[
+  {
+    "date": "March 16, 2022",
+    "shortDescription": "Leading work teams in the digital age is not an easy task.",
+    "path": "/blog/2022-03-16-project-management-tips",
+    "title": "Project Management Tips",
+    "details": [
+      {
+        "fullDescription": [
+          "Leading work teams in the digital age is not an easy task. Digital media have successfully established themselves in our daily lives. Our way of working is constantly taking new forms in project management; this has opened up new opportunities and challenges that require some project management advice to handle this complex arena properly.",
+          "Today we want to share with you six project management tips that will surely help you manage tasks and projects more efficiently and increase the performance of your team and your company.",
+          "1. Clearly define your goals",
+          "Having a company is quite an adventure. And although it is impossible to avoid some unforeseen events, having a predefined plan to stick to can help you overcome some setbacks.",
+          "Before taking any steps, you should ask yourself what your goals are. Where are you going? When do you want to arrive? Otherwise, you would sail aimlessly, and it would be impossible to measure the company's performance and determine the subsequent phases.",
+          "These objectives can be established as KPIs form, help you verify at the end of each exercise if the progress is as expected, where there are difficulties in advancing or if you have rushed in some aspect. Take advantage of technological advances and project management tools to record and review progress in this digital age.",
+          "",
+          "2. Anticipate problems",
+          "Be proactive, carefully evaluate the possible complications that may arise in the future, and design contingency plans and possible solutions.",
+          "In the best case, you will not need to apply them. And at worst, you'll be prepared to deal with whatever obstacles come your way.",
+          "",
+          "3. Be realistic",
+          "It's okay to be ambitious and think big. However, you must have your feet on the ground and know what you can encompass. It is something that you should always keep in mind if you want to see your business prosper.",
+          "When you seriously consider growing, do it consistently and with foresight.",
+          "",
+          "4. Define the roles well",
+          "Interdisciplinary profiles can be handy in a company, but each has its skills and shortcomings.",
+          "One of the talents of a good leader who manages any project in the digital age is knowing where each piece should be on the board to take advantage of their strengths and ensure that their weaknesses do not disadvantage the team. This is especially important in projects in which different profiles collaborate, where each one must know the extent of their skills and abilities.",
+          "",
+          "5. Promotes a good work environment",
+          "As we mentioned in the first of our project management tips in this digital age, communication between the different team members is essential for the project's progress. To achieve this, you must foster a good work environment.",
+          "Worry about the workers. Be interested in their concerns, ask their opinion, make them participate in decision-making. People need to feel valued to stay motivated. And a good leader gets his workers motivated.",
+          "6. Facilitates communication between workers",
+          "The last project management tip in the digital age is closely linked to many companies' main problems: the lack of fluidity in communication.",
+          "For a project to progress correctly, promoting communication between team members is essential. There must be a constant exchange of information from the assignment of tasks to reporting or the approval of processes.",
+          "In this sense, it is advisable to hold weekly meetings and frequent fast tracks so that all the professionals involved in each project are up to date at any time and from any place through software to collaborate optimally.",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "writtenBy": "Written by Mauricio Mejía"
+      }
+    ]
+  },
+  {
+    "date": "March 03, 2022",
+    "shortDescription": "UX/UI design in a resounding conclusion from a creator's perspective.",
+    "path": "/blog/2022-03-03-the-importance-of-ux-ui-design",
+    "title": "The Importance of UX/UI Design ",
+    "details": [
+      {
+        "fullDescription": [
+          "Before cities, inspirational land was planned to serve future generations; versions of themselves in fields, gardens, indentations, doors, and wallpaper. Just as real estate reinvents itself year after year, design for apps and websites does it constantly.",
+          "The construction or development of an app or a website can involve the outpouring of color rain and shapes that, without a basic structure focused on success, can be malicious or simply not have any specific meaning.",
+          "A well-executed user interface can generate an almost immediate bond with your interaction, thus making a strong impression on users.",
+          "",
+          "UX / User Experience",
+          "UX is the acronym that defines user experience, and its definition is summed up in the experience that a user has when entering an app or a website and when he is on it until he leaves it. For this very reason, a good experience strategy defines its focus.",
+          "The UX's importance is built by differentiating and executing the preferences and behaviors of the users within the management of the app or website; to offer the service or product in a comfortable, natural, and organic way. Like when you enter a supermarket, and you intuitively know where each one of the groceries is, and at the same time, you are obtaining information that determines your final purchase. It is a unique experience that can interfere with the user's emotions.",
+          "",
+          "Check the experience",
+          "UI/User-interface",
+          "The acronyms that define the interface, that is, the design of the app or website, focusing on the resources obtained from the user experience, objectively define its interaction within the interface.",
+          "Considering that the UI is purely based on the visual part, colors, shapes, fonts, distribution of elements (headers, images, size) always relate to the UX to verify the results and that everything is on the right track.",
+          "",
+          "Beyond its function",
+          "Just as in real life, the world of apps and websites stands out for the user's interaction with them. After a well-detailed investigation and structured planning, that process can guarantee that all the content in them is born in the proof a good UI/UX design highlighting improvements such as:",
+          "Which is more important?",
+          "Neither one is more or less important than the other. Both processes complement each other to the point that if one of them lacks a piece, the other is compromised, in the sense that if a web page or an app is \"beautiful\" but not fluid, it does not strengthen the user experience. Likewise, a well-structured app, with the elements that the user requires, does not ensure that the interface guarantees the link between the user and the product or service in the absence of visual harmony.",
+          "",
+          ""
+        ]
+      },
+      {
+        "writtenBy": "Written by Gustavo Arias"
+      }
+    ]
+  },
+  {
+    "date": "January 17, 2022",
+    "shortDescription": "In recent years, new tools have evolved that give us alternatives to achieve our work goals. ",
+    "path": "/blog/2022-01-17-serverless",
+    "title": "Serverless",
+    "details": [
+      {
+        "fullDescription": [
+          "In recent years, new tools have evolved that give us alternatives to achieve our work goals. Generally, hosting a software application on the internet implies managing some type of server infrastructure, which means that a virtual or physical server must be managed, along with the operating system and other web server hosting processes.",
+          "Traditionally, web applications have been created and implemented in which we have a certain degree of control over the HTTP requests that are sent to a server. Providers (AWS, Azure, or Google Cloud) focus on helping users not worry about configuring infrastructure, allocating resources, and managing them because they are the ones who are in charge of these processes.",
+          "The main focus of Serverless is to help us focus on what matters in the web application as the project progresses and to become effective in our work functions. Among its advantages are the facilities it has in infrastructure management, but without forgetting that we must always be active in writing codes, defining events to trigger the actions to be executed, and the services that make the project work, it is necessary to take into account that one of the advantages of serverless is that it allows us to pay for what is consumed, but it is necessary to pay attention to the servers.",
+          "In conclusion, normal servers could be replaced by clouds that manage the consumption of resources of the machine, so you can ignore general problems such as configuration, installation of programs, packages, and libraries, and everything you need when you are running an application. Serverless consumes services that are ready and you only focus on the application."
+        ]
+      },
+      {
+        "writtenBy": "Written by Laura Morales"
+      }
+    ]
+  },
+  {
+    "date": "January 13, 2022",
+    "shortDescription": "Software testing is a combination of checking.",
+    "path": "/blog/2022-01-13-software-testing",
+    "title": "Software Testing",
+    "details": [
+      {
+        "fullDescription": [
+          "Software testing is a combination of checking, exploration, and documentation, more or less a scientific method that helps us achieve better results in the software lifecycle, otherwise products may fail in production, which is critical for any team. Testing can be done manually or through test automation frameworks.",
+          "Exploring uncovers risks in our projects, asks deeper questions that allow us to find defects that could affect UX quality, and identifies possibilities that no one has thought of before because we are learning about the system while exploring,  designing and executing at the same time.",
+          "Documenting is a good practice that seeks continuous improvement, it helps us not to make the same mistake twice so that we can focus on the objectives and guide others towards achieving them, it also allows us to consult, give or receive feedback and reviews of previous tests to inform the next ones.",
+          "Why is software testing important?",
+          "Testing, in general, has always been used to prevent accidents and catastrophes. The Pareto 80/20 rule states that 80 percent of the consequences come from 20 percent of our causes, which translated to software means that 80% of system failures are caused by 20% of bugs.",
+          "We live in a world in which technology is part of life, it even controls many aspects of it, such as finances, insurance, devices, transportation, security, information, entertainment, etc. Therefore, software should not fail, at least not that much, but it does. To be agile and accurate is necessary to have a correct understanding of the requirements, good teamwork, attention to detail, and assertive communication, typical skills of software testers.",
+          "It is much better to catch bugs on time, correct them and make sure that the defects are not in other steps of development or already in production. Basically, software testing is important to ensure the quality of the product.",
+          "To perform testing, make sure of...",
+          "TYPES OF TESTING",
+          "Black Box Testing",
+          "Here, testers don't need to have any knowledge about the code, the software architecture, or any other technical aspect, they just need to interact with the application, to explore it to test functional and non-functional behavior.",
+          "White Box Testing",
+          "Here, testers know about the code and the structure of the application, it is mainly used by developers to perform Unit Testing for control flow, to test data, flow testing, branch testing, path testing, and so on.",
+          "Grey Box Testing",
+          "This one is a mix of the previous ones, meaning that testers have information about certain factors",
+          "Unit Testing",
+          "This one focuses on the correct functionality of the standalone module so the smallest pieces of code referred to as Units should be tested here. The Units to test could be functionality specifications, a piece of code or anything else that needs to be isolated and verified.",
+          "Integration Testing",
+          "Here is where different modules, units, and software components of the application are integrated. It is meant to verify the functionality, stability, and reliability of the modules when they are combined. This type of testing verifies the correct communication between all units.",
+          "System Testing",
+          "It is done after all functionalities have been checked and approved. Evaluate the system's compliance with its specified requirements.",
+          "Acceptance Testing",
+          "Formal testing that is done based on the user requirements, performed in real-life situations for end-users.",
+          ""
+        ]
+      },
+      {
+        "writtenBy": "Written by Karen Campo"
+      }
+    ]
+  }
+]

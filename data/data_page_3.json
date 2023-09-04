@@ -1,0 +1,108 @@
+[
+  {
+    "date": "February 21, 2023",
+    "shortDescription": "A responsive web design is one that is capable of adapting to different screen",
+    "path": "/blog/2023-02-21-basic-best-practices-for-responsive-web-design",
+    "title": "Basic Best Practices for Responsive Web Design",
+    "details": [
+      {
+        "fullDescription": [
+          "",
+          "A responsive web design is one that is capable of adapting to different screen sizes, the system detects the width of the screen and from there it adapts all the elements of the page, from the font size, to the images and texts. Menus offer the user the best possible experience.",
+          "Below I'm going to share some basic tips to make a good responsive design.",
+          "",
+          "Set the viewport",
+          "HTML5 introduced a method to let web designers take control over the viewport, through the <meta> tag.",
+          "You should include the following <meta> viewport element in all your web pages:",
+          "This gives the browser instructions on how to control the page's dimensions and scaling on the base of the width of the device's screen.",
+          "In addition to setting an initial-scale, you can also set the following attributes on the viewport:",
+          "When set, these can disable the user's ability to zoom the viewport, potentially causing accessibility issues. Therefore, we would not recommend using these attributes.",
+          "",
+          "Size content to the viewport",
+          "If the user is forced to scroll horizontally, or zoom out to see the whole web page, it results in a poor user experience.",
+          "Percentage units will allow elements to be fluid. Setting minimum and maximum widths can be helpful, but don't go smaller or bigger than its container.",
+          "Use Media Queries based on viewport size",
+          "Media queries allow us to create a specific style for different screen resolutions. In most cases, only three viewports are considered:",
+          "But there is a wide range of resolutions, so what this tells us is that we should consider all of them when thinking about responsive web design.",
+          "",
+          "Make Layouts Flexible/Adaptive",
+          "Layouts should be flexible , they need to naturally adapt as the browser resizes.",
+          "Modern CSS layout techniques such as Flexbox, Grid Layout, and Multicol make the creation of these flexible grids much easier."
+        ]
+      },
+      {
+        "writtenBy": "Written by Erik Beltran"
+      }
+    ]
+  },
+  {
+    "date": "February 14, 2023",
+    "shortDescription": "When applying for a job, there are many skills that are taken into account.",
+    "path": "/blog/2023-02-14-the-importance-of-confidence-in-the-workplace-and-in-life",
+    "title": "The Importance of Confidence in the Workplace & in Life ",
+    "details": [
+      {
+        "fullDescription": [
+          "When applying for a job, there are many skills that are taken into account and into consideration, especially considering the position one is applying for. Confidence is a skill that may take time to develop and achieve, however, it is not impossible. Outside of the workplace, confidence is also very important and can come in handy in many other situations in life. Confidence can help you succeed in aspects of your life such as in love, in obtaining things you want, in relationships, and in your career. Many entrepreneurs have started empires because they had the confidence and believed in themselves. When trying to achieve something we want, we must trust that we are capable of reaching our goals. Although confidence is necessary, it is obviously not the only thing needed when it comes to reaching your goals, but it’s a great place to start. When one has a defined personality, it is less likely that people will undermine you. This is why it is important to know exactly what you want, and to voice your opinion when needed. Being unapologetically ourselves shows others we believe in ourselves, and demonstrates confidence. In addition, when we demonstrate to others that we lack confidence, this weakens your image of self worth and allows for others to make you feel less.",
+          "So how do we build and gain confidence, you may ask? Well first of all the work must be done by ourselves, we must recognize our strengths and learn how to be assertive. We must work on our mindsets, and have a growth mindset in which we aspire for improvement. People with a fixed mindset, who believe that their abilities are fixed from birth and that success is related to other factors, are less likely to believe that their own hard work can help them reach success. Learning to say no to others and to stop people pleasing is an important part of being confident as well. When we create boundaries, and do not let others walk all over us, you show others you are confident, in a tactical and polite manner of course. Your self image and self care also play a major role when it comes to being more confident. If you feel and look good, others will perceive that as well. Invest in your personal hygiene, your wardrobe, and make sure to look presentable. Exercise and personal groom can greatly contribute to making us feel better about ourselves. When trying to be confident, one must try to be careful of not coming off as arrogant, as there is a fine line between confidence and arrogance.When someone is confident, they believe in themselves and know their abilities. On the other hand, someone who may come off as arrogant, is someone who believes their abilities and knowledge make them superior to others, and this is not the goal we are trying to achieve. ",
+          "Moreover, building healthy relationships can significantly impact our confidence level. As humans, healthy relatioships with others can help our levels of happiness, and our confidence as well. Avoiding relationships that may be considered unhealthy is important, as they can be emotionally draining. Lastly, not being afraid of trying new things and challenging yourself is a great way to build confidence. By learning new skills, and overcoming fears such as going out to eat alone or going to the movies alone, you are showing yourself you are capable of overcoming a challenge, and can help you significantly. All of these skills, if practiced correctly, can help you gain confidence in life, and in your careers. Having confidence is a great skill to have that can guide you in many right directions, and can help you with your communication skills as well. "
+        ]
+      },
+      {
+        "writtenBy": "Written by Natalie Montoya"
+      }
+    ]
+  },
+  {
+    "date": "February 07, 2023",
+    "shortDescription": "Should graphic designers have a career focused on a single skill.",
+    "path": "/blog/2023-02-07-is-the-evolution-of-design-pushing-us-aside",
+    "title": "Is the evolution of Design pushing us aside?",
+    "details": [
+      {
+        "fullDescription": [
+          "In order to become a graphic designer, one usually must attend a prestigious school, or simply become well equipped and prepared. This however, is what designers may least have in common. It is no surprise that the more you educate and prepare yourself, the more you are able to obtain knowledge. However, we may ask ourselves, should graphic designers have a career focused on a single skill, or should we focus on having multiple?",
+          "Why do we study graphic design?",
+          "Among all the professional careers you can pursue, design is constantly being updated as it can still be considered a relatively new profession. It started at the end of the 19th century, and its evolution has allowed artists to experiment with different techniques and design processes. This led to what we now know today as the current modern design.",
+          "The desire to stand out, to express ourselves as artists, or simply as a way of expressing our emotions through artistic expression, have all led us to decide to work in the world of design.",
+          "We went from painting rocks, to printing with stencils, to finally dedicating ourselves completely to digital work. Throughout all these years, the concept itself has been reinvented more than a dozen times, and artists and professionals may usually come back to the same dilemma that can cause them to even take a break from their professional career. This is whether or not a graphic designer should obtain knowledge on many topics in his career, or solely focus on just one.",
+          "Definite artist or an all-rounder in the profession",
+          "If you are born with a gift, whatever it may be, you should dive into the profession without any hesitation. Once you have discovered your gift, you should try to exploit it, such as by capturing your art through works that can display or sell quickly. Although this may not always be the case, considering we live in a world where we all want to stand out, and therefore there is a lot of untapped and exploited talent.",
+          "Another aspect one must consider in this field, such as in many, is overworking and exploitation from companies. Not all workspaces have to ask you to go the extra mile, put on your shirt, or work for collective productivity. So you must know how to identify when this happens and take it as a clear alarm when a change in your work environment is necessary.",
+          "",
+          "My experience",
+          "During my long journey as a graphic designer, I have had the opportunity to learn and teach an infinite number of skills, from managing an app to resolving situations in real-time, as well as operating machines that allow us to deliver a job or product. Finally, being in a world that advances in favor of technology, we must evolve with it and learn more every day. We must stay at the forefront, stretch out our hands towards what we once thought was impossible, and bring on technology in peace.",
+          "",
+          "Learn from innovation, don't swim against it",
+          "It is no surprise that we are constantly being flooded with more and more apps everyday. At first glance, it may be intimidating and may seem like they are going to replace humans in the long run with advances such as AI, rendering, and 3D printing. It is also no secret to anyone that artists and designers can feel threatened and even left behind by these new technologies, as these machines claim to be able to not only to do our job, but to do it even better than us.",
+          "We as professionals, empirical or street artists, are trained to innovate together with them, learn how they work, and apply it to our works; which can only lead to one thing: survival.",
+          "Red or blue pill?",
+          "Should we focus on learning and improving a single skill, or should we learn more than we should in order to offer a wide range of services and products? From my experience, the designer should make the decision, and it is only up to him. You can learn along with new technologies, expand your portfolio and experiment with new techniques, increase the level of knowledge you store on your hard drive (yes, your brain) and nobody can tell you how much information you should include in it. This is something we must take into account to work in a company, or in daily life itself. After all, you may never know when you will need that acquired knowledge you have stored in the long run."
+        ]
+      },
+      {
+        "writtenBy": "Written by Gustavo Arias"
+      }
+    ]
+  },
+  {
+    "date": "January 31, 2023",
+    "shortDescription": "As a senior developer it was a big upgrade to go into the action immediately",
+    "path": "/blog/2023-01-31-my-experience-at-parrolabs",
+    "title": "My experience at Parrolabs",
+    "details": [
+      {
+        "fullDescription": [
+          "My early experience was in companies that hire their developers for their own projects, and this was my first time in a company working as an outsourcing developer. Initially, I was afraid of what kind of customers we were going to work for, how I would handle the work schedule, and many other concerns I had from my previous positions.",
+          "Once I started working at Parrolabs, I got directly involved with the customer. As a senior developer it was a big upgrade to go into the action immediately; all the administrative tasks of being new in a company were already solved.",
+          "When you work for a company that allows you to handle your own schedule, it is quite challenging as you need to be very disciplined, however, this pushes you to have better habits.",
+          "The project I am currently working on is for a company in California. The people there are very humane and kind, and they are culturally aware. They are sensitive to the fact that I have good English speaking skills, however I am not native, and they do not mind repeating or making their requirements more specific when we have meetings, that are typically on a daily basis.",
+          "I am very grateful to work for the customers we have at Parrolabs, as I have a purpose here and day by day I feel useful and allowed to do the job at my own pace. I am also given the opportunity to provide value and results to our customers, and have been able to learn new things, even with technology I have been using for more than 10 years. Working for this company has been a great experience and never fails to stop surprising me."
+        ]
+      },
+      {
+        "writtenBy": "Written by Uriel Moreno"
+      }
+    ]
+  }
+]

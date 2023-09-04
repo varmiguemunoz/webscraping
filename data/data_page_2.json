@@ -1,0 +1,144 @@
+[
+  {
+    "date": "April 26, 2023",
+    "shortDescription": "It is a methodology that focuses on understanding and providing solutions to the real needs of users",
+    "path": "/blog/2023-04-26-what-is-design-thinking",
+    "title": "What is Design Thinking?",
+    "details": [
+      {
+        "fullDescription": [
+          "What is Design Thinking?",
+          "It is a methodology that focuses on understanding and providing solutions to the real needs of users, which is why it is also known as human-centered design. It seeks to address challenges, or complex problems to define and solve, while facilitating their solution and the design and development of products and services of all kinds. For this reason, it utilizes innovation, creativity, and motivation of the team as a base foundation.",
+          "It is a non-linear process, in which you can take steps backwards or forward at any time if you have the adequate tools and techniques necessary to guide you. It can help you enhance creativity and analysis, and discover the insights that will make your project successful.",
+          "",
+          "EMPATHY PHASE:",
+          "It seeks to reach a deep understanding of the needs and environment of the users involved. We must be able to put ourselves in their shoes to be able to generate solutions consistent with their realities.",
+          "To reach an understanding of potential clients/users, the use of some techniques is suggested, such as: Interviews; 5w's; Ethnography; Observation; Moodboard; Focus Group; Etc.",
+          "DEFINITION PHASE:",
+          "We filter the information collected to keep the valuable findings that lead us to see interesting new perspectives based on the demands and needs of the user.",
+          "After identifying the problem or challenge, we proceed to define and validate it with the target; remember that it is based on this that we will seek key and innovative solutions.",
+          "IDEATION PHASE:",
+          "Its objective is the generation of endless options. We shouldn’t stay with the first idea that comes to mind. In this phase, methods that favor expansive thinking and the elimination of value judgments are used. Sometimes the most outlandish ideas are the ones that generate visionary solutions.",
+          "It is a stage of creativity, innovation and pure and hard realism. The challenge is creative, to put the minds of the team to work. Space, ideas, tools, materials and all kinds of utensils are required.",
+          "PROTOTYPING PHASE:",
+          "In this stage we turn ideas into reality. Building prototypes makes ideas tangible and helps us visualize possible solutions. In addition, it reveals elements that we must improve, refine, or change before reaching the final result. The goal is to achieve a mockup or prototype as close to the reality of the desired solution. This way we can later validate it, and perhaps more importantly, that it meets the initial needs of your target audience.",
+          "TESTING PHASE:",
+          "During the Testing phase, we will test our prototypes with the users involved in the solution we are developing. This phase is crucial, and it will help us identify significant improvements, bugs to resolve, possible shortcomings, and more. During this phase we will evolve our idea until it becomes the solution we are looking for."
+        ]
+      },
+      {
+        "writtenBy": "Written by Melisa Torres"
+      }
+    ]
+  },
+  {
+    "date": "March 22, 2023",
+    "shortDescription": "We will review three concepts related to technology and the future digital",
+    "path": "/blog/2023-03-22-chatgpt-metaverse-and-nft",
+    "title": "ChatGPT, Metaverse and NFT",
+    "details": [
+      {
+        "fullDescription": [
+          "In this document, we will review three concepts related to technology and the future digital ChatGPT (AI), NFTs, and Metaverse. We will also see some examples related to one of these, which plays a lot these days.",
+          "ChatGPT",
+          "ChatGPT is a next-generation natural language processing artificial intelligence (AI), created by OpenAI. This technology allows users to interact with a virtual entity that can understand and generate human language similar to a person.",
+          "ChatGPT's architecture is based on natural language processing and machine learning models.",
+          "NFTs",
+          "NFTs (non-fungible tokens) are unique digital assets that can be bought, sold, and owned. Each NFT represents exclusive property, meaning it cannot be exchanged for something else of equal value. NFTs have become a popular way to collect artwork, music, and other digital content. The architecture of NFTs is based on blockchain technology, which is a distributed and secure database that allows the creation and exchange of unique and unrepeatable digital tokens.",
+          "Metaverse ",
+          "The metaverse is a term used to describe a shared virtual universe in which users can interact with each other in real-time. The metaverse has the potential to become a new form of socialization and commerce, as it allows people to meet and engage in activities in a virtual environment.",
+          "The Metaverse architecture is based on virtual and augmented reality technologies, as well as online social interaction.",
+          "ChatGPT focuses on automating tasks that previously required human intervention, and NFTs focus on the ownership and value of unique digital assets. The metaverse for its part focuses on social interaction and the creation of a virtual universe.",
+          "In short, ChatGPT, NFTs, and Metaverse are innovative technologies that have the potential to change the way we interact and do business online.",
+          "",
+          "ChatGPT and the rise of AI today",
+          "We have been hearing a lot recently about chatGPT and the impact it is having due to its natural way of interacting as if we were interacting with a real person through a chat.",
+          "At the end of 2022 and the beginning of 2023, we have seen how AI has taken on a new impulse after the release of the tool created by OpenAI.",
+          "There are many competitors in this field such as Google, Microsoft, and Apple that have seen how chatGPT is positioned in the market and how many companies want to use this tool.",
+          "The Redmond company (Microsoft) has even made a large investment in OpenAI to allow chatGPT to be integrated into its search engine (Bing)",
+          "Daily uses",
+          "In the world of technology, there is a lot of scattered information about specific topics which sometimes generates more doubts and concerns.",
+          "Not long ago I started the task of reviewing and making use of this tool (ChatGPT) to solve some doubts or to remember necessary concepts in the work I was doing and to determine how useful it could be on a day-to-day basis.",
+          "It is no secret to anyone that one of the most used tools to solve doubts in the field of technology is stackoverflow.com, which helps us find solutions to problems that people have had to face at a certain time.",
+          "Stackoverflow has a very large community and someone has already faced a technical challenge before and they have been able to provide a solution and other people do not have to \"reinvent the wheel.\"",
+          "Sometimes there are many answers and they are all different according to the errors presented by each person and each technology and/or specific version that sometimes the solution does not seem to be adequate and even generates more consultation time.",
+          "At this point, I found that chatGPT can serve as an ally.",
+          "By asking a certain question and with some criteria we can obtain a concrete answer and a more efficient search which can include specific steps including points to take into account.",
+          "During a \"chat\" conversation, you can even continue asking about the same topic but in more detail and it provides answers in the same context as the initial question.",
+          "Example: When asking for a DB configuration in an operating system. chatGPT responds to things like:",
+          "1. Open Terminal",
+          "2. Run with system administrator permissions",
+          "3. Run",
+          "4. Remember to change certain parameters",
+          "5. Close connection",
+          "",
+          "But if I write: “Now this other error is appearing:”",
+          "The answer will be connected to the original question.",
+          "If you still get the error when trying to execute these commands then check",
+          "1. Have the execution permissions",
+          "2. Check that this parameter is being assigned",
+          "3. If you have not assigned certain permissions before then you can execute <comando>",
+          "",
+          "These other steps above using a browser on some page like StackOverflow would have required me to enter several of them reviewing responses from various people with problems very different from what is really required.",
+          "Integration with VSCode (CodeGPT)",
+          "This Visual Studio Code extension allows you to use the official OpenAI API to generate",
+          "code or natural language answers to your questions from GPT3 or OpenAI ChatGPT, directly inside the editor.",
+          ""
+        ]
+      },
+      {
+        "writtenBy": "Written by Juan Torres"
+      }
+    ]
+  },
+  {
+    "date": "March 14, 2023",
+    "shortDescription": "One of the tools we use today, generally known as the web",
+    "path": "/blog/2023-03-14-the-internet-throughout-the-years",
+    "title": "The Internet Throughout the Years",
+    "details": [
+      {
+        "fullDescription": [
+          "The web, also known as the internet, is an amazing tool that many of us have had the opportunity to use. This great creation was invented by Timothy John Berners-Lee, a British computer scientist, in the year 1989. The internet has had a huge impact on us worldwide, and has gained much popularity throughout the last decades. Today, the vast majority of us use the internet for many different purposes, such as communicating with others, learning, researching, shopping, entertainment, and much more.",
+          "",
+          "The Internet has gone through many different changes which has allowed it to remain at the leading edge for more than 33 years. People use the web daily for many different things such as for research, to browse, and to learn new information. It is a utility many of us have been fortunate enough to have available to use to our advantage, and has allowed us to learn many new things. As a graphic designer, I can personally confirm that the web has allowed me to attain many new abilities, and has taught me many new things. It has allowed me to express my creativity, and many of us can obtain an income from our capabilities taught by using the web.",
+          "Navigating the web has become much more accessible as time goes by, however, it was born like most of us, inexperienced. The internet was born many years before the first website was created, and as time goes by, we gain more knowledge of it, and it has become easier to use. Before, the internet seemed to be something only younger generations had knowledge of, now however, even older generations have been able to learn how to navigate the web. We could say that we already live in the future, but the web went through a long process before getting this far. Many progressions have been made, and between the years 1995 and the early 2000’s, we were introduced to the JavaScript language, Java, and also new mechanics such as animations and videos on the web.",
+          "",
+          "In the beginning of the year 2000, we were also introduced to search engines such as Safari and Chrome, that allow the use of the web on portable devices such as cellphones and tablets. The calendar was also implemented, as well as the introduction of 3D design and tactile devices.",
+          "",
+          "The internet continues to improve and evolve as time goes by. The social media platform known as Facebook, was the ultimate trending topic when first released. Afterwards, many other social media platforms were created such as Instagram, Twitter, Tinder, Whatsapp, TikTok, and many more. Through the use of these social media platforms and apps, we have been able to stay connected to one another across the globe, and are able to stay informed and in touch with people thousands of miles away. The creation of the internet has changed our lives forever, and there is no going back. It is constantly changing and evolving, and we can only wait and see where it will take us in the future."
+        ]
+      },
+      {
+        "writtenBy": "Written by Gustavo Arias"
+      }
+    ]
+  },
+  {
+    "date": "March 07, 2023",
+    "shortDescription": "As a society, we become so invested in earning money, however",
+    "path": "/blog/2023-03-07-learning-to-budget-this-2023",
+    "title": "Learning to Budget this 2023 ",
+    "details": [
+      {
+        "fullDescription": [
+          "As a society, we become so invested in earning money, however, learning to budget our money is just as important, if not more.",
+          "If you are a beginner when it comes to budgeting money, here are a few helpful tips that can get you started. If you become organized enough with your finances, you can even start your own savings account, which would be the ultimate goal. ",
+          "First and foremost, however, you need to get organized and hold yourself accountable for your spending habits: ",
+          "Start off by making a list of your goals, and what it is you want to ultimately achieve. Do you want to save up for something you’ve been wanting? A vacation, a new expensive purchase? Next, take a look at your income, and see how much of your income you must spend on necessities first. Get organized by planning how much money you are spending on bills such as your internet, phone, groceries, rent, car utilities, and more. ",
+          "After you have taken a look at how much you must spend on your obligations, you can then move on to look at whether you have any pending debts you must pay off. ",
+          "The popular suggestion is to make sure you are spending 50% of your income on your needs, 20% on savings and any pending debts, and 30% on anything else you might want such as leisure activities and pampering yourself. There are plenty of online resources and applications that can help you get organized as you budget your expenses. Take a look at how much you are spending on eating out, or on clothes. If you find yourself tight on money by the end of the month, figure out how much less you should spend on things such as these, so you can use your money more wisely. ",
+          "Set up a goal of how much you want to save each month, even a small amount of money saved a month can gather up in no time. Adjust your lifestyle to make sure you are living according to your income. Having separate accounts also makes saving easier, in which you can place the amount of money you want to save monthly. ",
+          "Lastly, but I would say most important, is to track your spending. After you have set up how much money you can spend on each category, make sure to keep up with it. For example, after you’ve gone grocery shopping, subtract the amount you’ve spent from the total monthly grocery shopping budget. This way you can see how much money you have left to spend on your next grocery trip, and so on. It might seem difficult at first, but it will get easier as you learn. ",
+          "Once you have learned to track, you can then make any further adjustments. If you see one of your monthly bills is higher than it usually is, then adjust your expenses and spend less on a different category. ",
+          "Tracking will help you stay on track with your monthly budgeting expenses and will hold you accountable for what you are spending, while also preventing you from overspending. ",
+          "Learn to take charge of your finances, and start saving for that big purchase or vacation you’ve been dreaming of!",
+          ""
+        ]
+      },
+      {
+        "writtenBy": "Written by Natalie Montoya"
+      }
+    ]
+  }
+]

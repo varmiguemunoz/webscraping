@@ -1,0 +1,115 @@
+[
+  {
+    "date": "December 02, 2021",
+    "shortDescription": "If you’re a web developer, probably you’re aware of the amount of HTML",
+    "path": "/blog/2021-12-02-useful-html-tags-for-your-tool-belt",
+    "title": "Useful HTML tags for your tool belt",
+    "details": [
+      {
+        "fullDescription": [
+          "If you’re a web developer, probably you’re aware of the amount of HTML tags in the standard, there are about ~142 HTML tags and you most likely use ~10 of them for your projects.",
+          "I want to take this chance and show you 3 useful HTML tags that can make your project a bit better in terms of semantic.",
+          "This tag is capable of highlight shortcuts that you want to display to the reader, in a basic but noticeable way:",
+          "kbd tag example",
+          "This one as the name suggests is for highlighting sections of text, of course, you can use CSS for styling it as you want:",
+          "mark tag example",
+          "This one is for display abbreviation with an optional attribute title that describes the content, the title is like a tooltip:",
+          "abbr tag example",
+          "These tags can help you improve your syntax and in a sense help you with the SEO; you could use simple div tags to visually create the experience for the user, but for some the web crawlers that represents different content.",
+          "Hope this helps you a bit in your upcoming projects."
+        ]
+      },
+      {
+        "writtenBy": "Written by Dair Diaz Rambao"
+      }
+    ]
+  },
+  {
+    "date": "November 25, 2021",
+    "shortDescription": "Many companies at the beginning of the pandemic in 2019 thought that this would be temporary.",
+    "path": "/blog/2021-11-25-manage-a-remote-team",
+    "title": "Manage a Remote Team",
+    "details": [
+      {
+        "fullDescription": [
+          "In 2020 during the very beginning of the pandemic, many companies believed this situation would only be temporary. Now, after almost two years, we are still in a crisis, however this time the crisis is employees no longer want to return to the office. Most managers don’t know how to keep motivating a team in order to be successful in their company goals. Here are some tips on how to keep remote workers productive and happy.",
+          "1. The key to success is communication.",
+          "While working online, communication is likely to be affected, but in today’s times, different tools allow us to access resources that help us strengthen and continue to advance. For example, one of the many tools we use in ParroLabs is Slack. Through this application we can create channels to make sure we always have effective communication and we can create activities that allow efficient communication between employees and their team.",
+          "The key to successful communication is to clarify what you expect from your team by having important discussions and giving them the flexibility and resources to get things done. Moreover, we should not forget the importance of constant group meetings, and making sure to announce and schedule beforehand, to agree on a time and day that works for most people.",
+          "2. Expectations: Delegate responsibilities",
+          "Through communication processes and meetings, it is important to delegate the functions and expectations of each individual and each team. During the job induction, it is important to be clear about the position to be occupied and the functions that are to be expected.",
+          "Using apps can be helpful to manage the extra time that your employees are working and reminding them that it is important to manage their time. As a leader, some things are out of our control, whether employees are working in the office or working remotely. However, ultimately the overall outcome will show the hard work they have put in.",
+          "3. OnBoarding",
+          "Good onboarding can make a difference in your team. A lot of companies send emails with company information and their expectations from the employee at the end of the onboarding process. On the other hand, there are other companies that help the employees understand everything related to the company and their responsibilities, updating them with all the tasks that their teamwork is focused on and letting them know how important they are to the company.",
+          "4. Motivating your team",
+          "Doing activities that all your employees can participate in is a great idea to work on team work abilities and to strengthen different areas that can help the company grow. Additionally, showing gratitude and letting workers express themselves in their own individual style is helpful, and placing more of the focus on the overall end goals.",
+          "Today, most employees are working remotely, so we can use activities to make  connections on a more personal level between the team, since it is easier to talk to colleagues when they have things in common. In this case, we can try to bring the team together by using tools that make activities easy, like creating a Slack channel to share stories, music, books or making a party on Netflix to share a great movie.",
+          "Also, it is always important to remember to celebrate the success of the company with your employees. All of these factors can help contribute to a healthy and united work environment and team, even when working remotely."
+        ]
+      },
+      {
+        "writtenBy": "Written by Laura Morales"
+      }
+    ]
+  },
+  {
+    "date": "November 17, 2021",
+    "shortDescription": "If you are learning or interested in mobile application development.",
+    "path": "/blog/2021-11-17-react-native-app-ideas-for-beginners",
+    "title": "React Native app ideas for beginners",
+    "details": [
+      {
+        "fullDescription": [
+          "If you are learning or interested in mobile application development. React Native is a great option to create your applications. At the beginning it may seem a bit scary but if you have previous knowledge in React js, learning React Native will be easier.",
+          "One of the most important points is the configuration of the setup environment, this varies depending on the device we use to develop or the operating system in which we want to run our application, in the following link you will find the complete guide to configure ​​ your setup environment.",
+          "After having correctly configured our setup environment, the first thing to do will be creating the app, in this case I will use React Native CLI",
+          "npx react-native init myFirstApp",
+          "Once our app has been created correctly, we will delete all content of the App.js file located in the root of the project, here we will develop the code of our app.",
+          "One of the main differences between React js and React Native are the components, while in React js HTML tags are used, React Native uses its own components, let's see some examples:",
+          "If we want to use a container of other elements instead of using tags like <div>, <section>, <main>, etc. we must use <View>, for the texts instead of tags like <h1>, <span>, <p>, etc. we use <Text>, for the images we change <img> to <Image> , in the following link you can consult all the components that are used in React Native.",
+          "For our application we will use some of the components mentioned above",
+          "",
+          "To run our app we go to the directory we just created cd myFirstApp, and run one of the following commands:",
+          "npx react-native run-android",
+          "npx react-native run-ios",
+          "or if you use yarn as your dependency manager with:",
+          "yarn run android",
+          "yarn run ios",
+          "",
+          "It should look like this:",
+          "As we can see, some components will take up all the available space, for some it is necessary to give them values, ​​for this it is necessary to apply styles, the styles can be applied directly in the component but to move the styles away from the rendering function and that the code is easier to understand it is recommended to create a style sheet, for that we will use StyleSheet that is an abstraction similar to CSS.",
+          "We will create a constant that will receive an object and we define the different classes with their styles, in the component that we want to apply the style, in the style property we reference the constant and the class with the corresponding styles.",
+          "React Native allows us to use React js fundamentals such as states, props and event handling",
+          "The next step will be to create a new component which will receive the name as an argument and will display a message on the screen.",
+          "After pressing the button, the onPress function will be called, which activates the variable that will show us the message on the screen",
+          "I hope this blog has helped you, below I will leave you a list of project ideas that you can create to test and improve your skills in React Native:"
+        ]
+      },
+      {
+        "writtenBy": "Written by Erik Beltran"
+      }
+    ]
+  },
+  {
+    "date": "November 09, 2021",
+    "shortDescription": "Nearshoring keeps gaining more traction. ",
+    "path": "/blog/2021-11-09-5-reasons-why-nearshoring-is-getting-more-popular",
+    "title": "5 Reasons why Nearshoring is Getting More Popular",
+    "details": [
+      {
+        "fullDescription": [
+          "Nearshoring keeps gaining more traction. As Colombian outsourcing keeps gaining more traction as per Nearshore Americas review, so do others. In recent years both Clutch and DesignRush have made a special ranking for nearshore software development companies.",
+          "In this blog post, we are looking into the details of the increase in popularity.",
+          "Covid did seem to make the world a bigger place. One day to the next, many of us were in complete Covid Lockdown and we had to stay in our houses. For most the only contact we could have with colleagues, family and friends are through apps like Google Meet, Zoom, FaceTime, WhatsApp, and Teams.",
+          "It did also make the world a smaller place. Instead of moving from one Meeting space to the next (and maybe even communiting), we were suddenly brought to the confinements of our screens. This also meant that suddenly the world got smaller, bringing with it opportunities. Soon people started flocking to Latin American Companies.",
+          "Ever gotten to a vacation destination and the internet was extremely slow? Well, in recent years even small towns have gotten Fibre Optic internet. Also, international sea cables are making the world a smaller place. So working remotely is not as cumbersome as it used to be. Sending documents and transferring large quantities of them is not as difficult as it used to be.",
+          "Flights to and from Latin America, as well as Eastern Europe, have gotten a lot cheaper over the last few years, and also there are more options. New Airlines have been opening new routes and prices have dropped.",
+          "At a government level, the focus is more on international Business than there was before. Meaning that many regulations now favor international Business. Whilst, certain tax regulations are still very murky and favor those with huge budgets, but it is nothing like it was 10 or 20 years ago."
+        ]
+      },
+      {
+        "writtenBy": "Written by Niels Siskens"
+      }
+    ]
+  }
+]

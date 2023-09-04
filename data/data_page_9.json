@@ -1,0 +1,96 @@
+[
+  {
+    "date": "May 03, 2022",
+    "shortDescription": "Many valuable reflections were made after COVID, one of those being learning how to work remotely. ",
+    "path": "/blog/2022-05-03-how-to-build-a-hybrid-approach-to-remote-work",
+    "title": "How to build a hybrid approach to remote work",
+    "details": [
+      {
+        "fullDescription": [
+          "Additionally, we witnessed how new companies were born, how others began to innovate their work methods, and how some simply could not resist the toll taken on the economy during that time.",
+          "As a result of this, diversity was formed in the workplace, which focused on building a hybrid work model. Many leaders chose to provide opportunities to those who are part of their organizations by allowing and providing flexibility and balance in their work.",
+          "This way, agreements were characterized whereby employees could work remotely for a few days a week and then work in person at the office at a predetermined time. An example of this work method is the company Parrolabs, which is focused on the growth of all its services without neglecting the benefits of its employees as well as the opportunity to have an adequate space to carry out the functions of each one of them.",
+          "In conclusion, it is important to remember the times when attendance was important, however nowadays it is not seen as necessary as it once was. There are still exceptions, such as those jobs that require your presence at the facilities of the company which you are a part of. It is essential to be aware that there are many jobs that offer remote work.",
+          "In these hybrid jobs it is important to create a plan and execute a series of operations that help the well-being of those who are part of the company to achieve the objectives of the organization."
+        ]
+      },
+      {
+        "writtenBy": "Written by Laura Morales"
+      }
+    ]
+  },
+  {
+    "date": "April 26, 2022",
+    "shortDescription": "Perhaps you’re not aware of the difference between these two symbols in Javascript.",
+    "path": "/blog/2022-04-26-or-or-and",
+    "title": "|| and ??",
+    "details": [
+      {
+        "fullDescription": [
+          "",
+          "|| (OR)",
+          "The “OR” operator is represented with two vertical line symbols:",
+          "In classical programming, the logical OR is meant to manipulate boolean values only. If any of its arguments are true, it returns true, otherwise it returns false.",
+          "Nullish coalescing operator '??'",
+          "The nullish coalescing operator is written as two question marks ??.",
+          "As it treats null and undefined similarly, we’ll use a special term here, in this article. For brevity, we’ll say that a value is “defined” when it’s neither null nor undefined.",
+          "The result of a ?? b is:",
+          "You have probably used these two expressions in Javascript, let’s examine the next snippet.",
+          "As you can see, the result string is joe - because lastname is null, so the expression || checks for null and undefined values, in this case the expression chooses the second value - as result.",
+          "Now, if for some reason you declare the initial value of lastname as an empty string, you’ll get the same result: joe - , that’s because for || , the empty string is a valid data, let’s go further and declare the initial value as zero 0 , surprise! you got the same result joe -",
+          "So, now it’s time to test the ?? expression, let’s see the next code:",
+          "As you can see, even though i declared the initial value of lastname as an empty string, you get joe , and of course if you change the value as zero, you also get the same result.",
+          "To wrap it up, you must to know that ?? is more permissive that || , so in case you want to catch empty strings or 0 values, the || is the way to go, else ?? is pretty sufficient for you, it’s up to the requirement."
+        ]
+      },
+      {
+        "writtenBy": "Written by Dair Diaz Rambao"
+      }
+    ]
+  },
+  {
+    "date": "April 14, 2022",
+    "shortDescription": "\"cryptocurrency\" is because of the means of advanced coding that are involved",
+    "path": "/blog/2022-04-14-what-is-a-cryptocurrency",
+    "title": "What is a cryptocurrency?",
+    "details": [
+      {
+        "fullDescription": [
+          "",
+          "Much of the interest in these unregulated currencies is to trade for profit, although the name \"cryptocurrency\" is because of the means of advanced coding that are involved in storing and transmitting cryptocurrency data between wallets and to public ledgers, and also because encryption aims to provide security and safety.",
+          "There are over 10.000 cryptocurrencies, but the most important ones at the moment are Bitcoin, Ethereum, Binance Coin, Tether, Tezos, EOS, and ZCash. Bitcoin was invented in 2008 by an unknown person or group and began use in 2009 when its implementation was released as open-source software.",
+          "If you are interested in buying cryptocurrency, you need to know this first. It is important to decide which platform to use. Consider which cryptocurrencies are offered, what fees they charge, their security features, storage and withdrawal options. You can also choose between a traditional broker and a dedicated cryptocurrency exchange. ",
+          "The next step is to fund your account so you can begin trading. Most crypto exchanges allow users to purchase crypto using fiat currencies such as the US dollar. But you must remember that crypto purchases with credit cards are considered risky and some exchanges do not support them. That is because cryptocurrencies are highly volatile, and it is not advisable to risk going into debt, but there is another way to invest in crypto, which can be done through payment services like Paypal and Venmo, which allow you to buy, sell, or hold cryptocurrencies.",
+          "It is important to always remember that in this process of handling cryptocurrency, the knowledge of developers is necessary, such as the services offered by Parrolabs, experts in coding languages such as Java, PHP, Python, Ruby On Rails, C#, Node.js, and others. The cryptocurrency developers are responsible for understanding the crypto coin mining concept and implementing the related features in the applications and systems, assessing existing transaction and exchange infrastructure, developing applications and systems based on blockchain technology, and integrating the software applications with the APLs of major cryptocurrency systems such as bitcoin, Ethereum, and other altcoins. They have a strong knowledge of powerful computer languages and working principles, as well as all of the skills of a cryptocurrency developer coder.",
+          ""
+        ]
+      },
+      {
+        "writtenBy": "Written by Laura Morales"
+      }
+    ]
+  },
+  {
+    "date": "April 05, 2022",
+    "shortDescription": "Technology has made it easier to farm, build cities, and travel",
+    "path": "/blog/2022-04-05-technology-and-society",
+    "title": "Technology and Society",
+    "details": [
+      {
+        "fullDescription": [
+          "Technology has facilitated our lives and has improved the standard of living of human beings in many ways; however, the rise of technology also has negative consequences on the environment and on human health.",
+          "What is technology?Technology refers to all the methods, systems and devices used for the use of any research in the world of science.",
+          "What is society?A society encompasses any organized group of people living together in a community, which often includes some form of government/governance, ≥along with laws, roles, and an economy.",
+          "As humanity evolves, technology accompanies its growth. Every day we see how technology becomes a part of our daily lives, from the simplest things such as making breakfast in the mornings to the construction of ships and other forms of technology that improve our daily quality of life.",
+          "Technology has made it easier to farm, build cities, and travel, among other things. It has also effectively connected all countries, assisted in the creation of globalization, has made it easier for economies to flourish and has allowed businesses to effectively function. Using technology solutions, virtually every aspect of human life has been made easier, more effective, and faster, resulting in fewer issues in one direction however different problems in another.",
+          "Learning has been significantly impacted through the use of technology in society. Learning has become more interactive and collaborative, allowing people to better engage with the topics they are learning and having difficulty with. It has also significantly improved access to resources.",
+          "With the invention of the internet, we now have access to information at all hours of the day and can find just about anything online. However technology comes with a lot of problems as well, like the depletion of resources, pollution increase, and population increase/health concerns.",
+          "Therefore, it is important to understand that even though technology has made our lives easier in many ways, we must consider the amount of technology we use and consume. As mentioned before, there are many consequences that may affect our health and life spans, so we must take care of ourselves in order to live longer on this earth."
+        ]
+      },
+      {
+        "writtenBy": "Written by Laura Morales"
+      }
+    ]
+  }
+]

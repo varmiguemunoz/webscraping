@@ -1,0 +1,180 @@
+[
+  {
+    "date": "July 29, 2021",
+    "shortDescription": "The back-end communicates between the database and the browser. ",
+    "path": "/blog/2021-07-29-top-5-popular-backend-frameworks-in-2021",
+    "title": "Top 5 Popular Backend Frameworks in 2021",
+    "details": [
+      {
+        "fullDescription": [
+          "The Backend in development is the side that we don't see, it communicates between the database and the browser. Whenever we log in an accountor make a purchase from an online store, our browser sends a request to the server-side, which returns information to the frontend side to be displayed in the browser again.",
+          "What are Backend Frameworks?",
+          "Backend frameworks are server-side libraries that help build the backend structure and configuration of any website, they bring us the tools and libraries needed so that operations can be simplified.",
+          "Below we’ll see some of the most popular Backend Frameworks based on the number of Stars of the repositories exported from GitHub Archive.",
+          "1. Laravel",
+          "Laravel is one of the best frameworks for backend development, it’s based on the PHP language andthe MVC ( Model-View-Controller) design architecture. It’s beginner-friendly and its primary aim is ‘create a process of upgrading fun and simple for websites’, the community is active and has extensive documentation.",
+          "2. Django",
+          "Django is a high-level framework based inPython language and theModel-View design architecture; almost everything any developer would require is already included.",
+          "Django doesn’t need installing and maintaining third-party plugins, as everything in the framework functions together, it’s a good option for complex projects.",
+          "3. Flask",
+          "Flask is a microframework based on the Python programming language. It’s described as a microframework as it doesn’t need any particular libraries or tools, it doesn’t contain form validation and database abstraction layer.",
+          "Flask supports extensions that can add utilities and features for a well developed dynamic web application.",
+          "Unlike Django, Flask is a good optionfor developing smaller projects.",
+          "4. ExpressJS",
+          "Express, is a backend framework for Node.js, released as free and open-source software under the MIT License, thanks to the skyrocketing popularity of Node.js, Express is quickly becoming one of the best frameworks for web development nowadays.",
+          "It's one ofthe best backendframeworks for building RESTful APIs and web applications,it's verypopular in the development stacks like MEAN, MERN or MEVN together with the MongoDB database and any JavaScript front-end framework or library.",
+          "5. Ruby on Rails",
+          "Ruby on Rails is basedon the Ruby programming language and theMVC design architecture, it’s open source software and is considered a beginner-friendly framework.",
+          "Ruby on Rails is used for having a faultless database table formation, the scaffolding of views, and migrations. It could be combined with JavaScript, CSS, and HTML to develop dynamic applications."
+        ]
+      },
+      {
+        "writtenBy": "Written by Erik Beltran"
+      }
+    ]
+  },
+  {
+    "date": "July 22, 2021",
+    "shortDescription": "Home office forever? Or do you prefer the interaction again?",
+    "path": "/blog/2021-07-22-work-from-home-or-office",
+    "title": "Work from home or office?",
+    "details": [
+      {
+        "fullDescription": [
+          "The year 2020 taught us that as much as we may plan for the future, it remains very unpredictable. No one had imagined that our lifestyles would change so drastically. In fact, we were taken out of our comfort zone to a completely new one that many of us were not accustomed to. What for many was a dream, for others, became a nightmare. Working from home is not easy, it is a very new and different process, and it consists of new habits and spaces. There are people who really enjoy it and work well from home, while there are others who still have not been able to adjust completely. However, I consider that once you get used to working from home, it has many benefits, for example:",
+          "On the other hand, there is the human part of us that desires to be social or to have human contact, which I believe to be very valid. Despite the fact that there are so many benefits to working from home, there are different things that need to be addressed and discussed in person, including sensitive work issues in the company. If you have an administrative role or if you are one of those people who prefers explanations in person, working from home may also disadvantage you greatly. There are some ideas that flow better when you work in teams or perhaps, you are one of those people who enjoys the company of your colleagues. Some may feel time goes by quicker while working in the office, and slower while working from home. There are also people whose internet connection may not be the best at home, so they must make the investment of paying for higher speed internet or alternatively, disconnecting other devices to not slow down the wifi. In addition, there may be more distractions from home if you live with children, siblings, parents or pets.",
+          "However, as mentioned before, everything is a process, and we must take into consideration that nothing is ever really fully guaranteed in this life. We will never be ready for such sudden changes, we simply must be open to the idea of reinventing ourselves every day, looking for new strategies and not forgetting that we are part of a company made of humans, regardless of the virtual situation.",
+          "Home office forever? Or do you prefer the interaction again?"
+        ]
+      },
+      {
+        "writtenBy": "Written by Karen Gutierrez"
+      }
+    ]
+  },
+  {
+    "date": "July 09, 2021",
+    "shortDescription": "Outsourcing is one of the most resilient industries amidst the crisis.",
+    "path": "/blog/2021-07-09-6-trends-in-outsourcing-in-2021",
+    "title": "6 Trends in Outsourcing in 2021",
+    "details": [
+      {
+        "fullDescription": [
+          "6 Trends in Outsourcing in 2021",
+          "",
+          "Introduction",
+          "Outsourcing is one of the most resilient industries amidst the crisis. It has its advantages and disadvantages too.Outsourcing reduces labor and overhead costs and focused more on the company’s core competencies and thus improving its competitive advantages. While Outsourcing on the other hand also has its own disadvantages, it involves handing over direct control over a business function or process to a third party. As such, it comes with certain risks. For example, when outsourcing, you may experience problems with confidentiality and security or management difficulties.",
+          "Somehow, Outsourcing has experienced disruptions that may have changed the expected trends in the future.",
+          "",
+          "Would the outsourcing trends remain as close as to what is expected?",
+          "",
+          "",
+          "“6 Outsourcing Trends this year to watch out for”",
+          "",
+          "",
+          "In times like this, remote work has increase and most employees worked at home five days per week during the outbreak. Outsourcing can also be a fantastic way for small business owners to improve efficiencies and bolster their company’s bottom line.",
+          "",
+          "Many organizations may likely get the services of outsourcing companies that have the capacity, stability, and compliance for work-from-home functions.",
+          "",
+          "",
+          "Automation has already changed the world. The manufacturing sector overhauls have been the most visible for the business sector, but many other areas are being shaped by innovation.",
+          "",
+          "Global businesses recognize RPA’s potentials in outsourcing as the sector relies on advanced technology to process tasks efficiently.Automation continues to revolutionize finance, customer service, and the offshore services world, more people are coming to believe that the future won’t necessarily be worse for employment — it will simply be different.",
+          "",
+          "",
+          "Cloud Computing helps organizations to lower operational costs, access resources quickly, increase efficiency, and secure data.",
+          "",
+          "It reduces CapEx and OpEx expenses.One of the main reasons businesses move to the cloud is to decrease costs. By sharing a pool of servers instead of buying and maintaining their own, and by relying on an outsourced IT staff and data facility, companies dramatically decrease capital and operating expenses.",
+          "",
+          "",
+          "Outsourcing social media is in demand as businesses want to leverage social media for customer service and engagement.",
+          "",
+          "82% of B2B organizations outsourced content creation last year.Social Media is also in demand in Outsourcing because of the advantages it has.",
+          "Outsourcing social media is that an agency typically has more experience and expertise than just one social media manager.",
+          "",
+          "",
+          "A unified communication strategy across channels is essential in providing a seamless experience to customers.",
+          "",
+          "Outsourcing to an omnichannel customer support team you can provide better customer service to your customers. By providing them access to multiple easy options to reach you at any time of the day, you can then handle queries and resolve issues on time.A positive experience will drive an increase in customer satisfaction and most likely lead to referrals and potentially good reviews, which are hugely beneficial for business.",
+          "",
+          "Since outsourcing companies are adept with technology, they will be able to develop tools and resources in establishing an omnichannel experience.",
+          "",
+          "",
+          "The Outsourcing market today shows that startups and small businesses believe that outsourcing can help their companies to improve efficiency and business growth. 80% of small businesses in the US plan to outsource this year.",
+          "",
+          "Also, the biggest benefit of outsourcing is that it frees the small business owner up to concentrate on the core business. Every small business can struggle to find the resources they need to grow. Outsourcing can level the playing field by allowing outside experts to contribute to making your company a success.",
+          "",
+          "On the other hand, the industry keeps on evolving to tailor-fit the needs of existing and potential clients. Thus, outsourcing companies are in need of talents with upgraded skills.",
+          "",
+          "We all know employee turnover is expensive. According to Gallup, the cost of replacing an individual employee can range from one-half to two times the employee's annual salary—and that's a conservative estimate.",
+          "",
+          "Upskilling, or reskilling, is a smaller investment than hiring and training a new worker. As you reskill your employees, you create a more well-rounded, cross-trained workforce, and increase your team’s effectiveness.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "SO WHY OUTSOURCED?",
+          "",
+          "",
+          "",
+          "Outsourcing Lowers Barriers to Entry and Increases Competition. While increased competition is encouraged by free markets and generally benefits consumers, it can hurt businesses that can't keep up. Outsourcing allows new entrants to industries where labor would have been too expensive otherwise.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "writtenBy": "Written by Dina Maculada"
+      }
+    ]
+  },
+  {
+    "date": "June 24, 2021",
+    "shortDescription": "You can observe the growth and reception of Svelte as a favorite in Satisfaction and Interest.",
+    "path": "/blog/2021-06-24-top-javascript-trends-to-watch-in-2021",
+    "title": "Top JavaScript Trends to Watch in 2021",
+    "details": [
+      {
+        "fullDescription": [
+          "During the last years a top 3 of the most used frontend frameworks has been maintained, which are: React, Angular and Vue.js, but according to the latest State Of JS survey, You can observe the growth and reception of Svelte as a favorite in Satisfaction and Interest, while React ranks as a favorite in terms of usage and awareness rating rankings.",
+          "",
+          "",
+          "React continues to have a strong position in the frontend community and this will not change in 2021. The constant development of this tool combined with some pioneers in the frontend world ensures that it is a future-proof solution that many developers and customers want to use. In the development of web applications, features such as hooks, concurrent mode, and component-based servers in the future ensure that React is convenient to use, widely used, and properly optimized for the web development landscape in 2021.",
+          "Vue continues to evolve, 2020 was marked with the release of Vue.js 3.0. Noteworthy is improved application performance and smaller packet sizes. Additionally, there was a significant improvement in TypeScript support.",
+          "TypeScript is a superset of JavaScript, released by Microsoft in 2012. The idea behind this comes from the fact that JavaScript does not restrict object types. As the name of this language suggests, it supports optional types that JS lacks. TypeScript also adds enums to make organizing your code easier. Microsoft's solution is not the only one on the market.",
+          "",
+          "",
+          "However, the latest State of JS survey shows that TypeScript is the most widely used language here. TypeScript took the syntax and semantics of JavaScript, and it brought in some additional features that JavaScript developers longed for. TypeScript increases developer productivity and makes it easy to maintain growing codebases.",
+          "According to Marcin Gajda Svelte in a few years and with some new features, it will easily dethrone Vue as a lightweight and interesting alternative to giants like Angular and React. Especially in the development of applications for so-called \"thin clients\". This in terms of Frontend Frameworks.",
+          "Now it is pertinent to talk about the management of the data layer.",
+          "GraphQL is a query language launched in 2015 by Facebook. This data management tool provides a flexible syntax for querying data from both the back-end and front-end and is currently used by many companies such as GitHub, Pinterest, Shopify, and many more.",
+          "In 2020, GraphQL had the highest interest among all the technologies that developers know about. 89.6% of developers who have heard of this language want to study it. However, the leader in the provision of data management is still Redux, which is used by 67% of developers. But JS trends show that this technology is losing satisfaction among programmers.",
+          "",
+          "",
+          "In conclusion, for 2021 not much will change with respect to 2020 but we cannot let go of unnoticed those new technologies that are becoming increasingly popular such as TypeScript, Svelte, Apollo, etc. The objective of this article was to show the panorama of the JS trends for Frontend and the management in the data layer. In future articles, I will talk about Trends for the backend, Mobile development and go a little deeper into the data layer since it is something very important in development."
+        ]
+      },
+      {
+        "writtenBy": "Written by Julian Alzate"
+      }
+    ]
+  }
+]

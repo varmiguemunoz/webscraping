@@ -1,0 +1,144 @@
+[
+  {
+    "date": "August 30, 2022",
+    "shortDescription": "Brave travelers, have you come here looking for answers? ",
+    "path": "/blog/2022-08-30-why-you-need-to-use-php-on-your-website",
+    "title": "Why You Need to Use PHP on Your Website",
+    "details": [
+      {
+        "fullDescription": [
+          "",
+          "In technical terms, PHP is a programming language made from C language and it is nearly 30 years old. PHP doesn’t need a hard compilation process and deployment on an I.T. infrastructure to be an executable program. PHP is already precompiled on demand and sent to the user's browser (or command line), and it’s one of the most used and always evolving programming languages out in business right now. ",
+          "The boss path: As a project manager or business owner, the easing of implementation and low cost is always expected, and because of its C heritage, PHP can be easily learned by most developers in the market today. C is the core of teaching in most universities in Latinamerica for the last 2 decades. Jumping from desktop C to web PHP is not a big deal for talented programmers, as there is plenty of documentation on the internet for every single function, product or library. Therefore, your team should not have trouble getting the hang of things, for example, a particular situation would be a bug. Keep in mind, an application made by a team could be in most cases easily taken by a different one.",
+          "The artisan path: One of the things I enjoy most about being a PHP developer, is that you can model business logic effortlessly by only following design patterns such as MVC, even if doing  so from scratch. Now, if you are using a framework such as Laravel, you can move forward fast and with precision to fulfill the needs of your clients. This is probably the greatest advantage PHP has, it is just you as a developer and your programming logic and creativity. So the daily deals in PHP projects are how to solve business problems through a flexible programming language.",
+          "The potions store: As PHP now has a legacy of 30 years, there are several frameworks and premade applications, such as content management systems like Drupal, ticket systems like GLPI, online stores like Magento, and the list goes on. You can easily get new libraries from third parties or from PHP distributions itself for very specific problems such as email and soap messages, and of course database connection and APIs to connect your business to the right customer.",
+          "Because of its less steep learning curve, easing of configuration, multiple sources of information, and a very active community, PHP keeps being a key tool for all small, medium and large businesses around the world, so it will definitely fit on your website to help you succeed.",
+          ""
+        ]
+      },
+      {
+        "writtenBy": "Written by Uriel Moreno"
+      }
+    ]
+  },
+  {
+    "date": "August 23, 2022",
+    "shortDescription": "You should first be aware that learning to code is almost like learning an alien language.",
+    "path": "/blog/2022-08-23-are-you-interested-in-learning-how-to-code",
+    "title": "Are you Interested in Learning How to Code?",
+    "details": [
+      {
+        "fullDescription": [
+          "In order to learn how to code, you should first be aware that learning to code is almost like learning an alien language. Frustration, imposter syndrome, and discouragement can be common visitors, however, if one is truly motivated and persistent, you can overcome the negative feelings that may arise. ",
+          "If you don't go to a CS program or bootcamp, it is important to spend a good amount of time in front of a computer looking for tutorials, doing courses, developing projects, and visiting sites like stackOverFlow or codeSandBox. Ah! Also make sure to develop soft skills because technical skills alone are not enough.",
+          "Having a passion for coding would be ideal, but there are many who land in the technology world simply due to the monetary compensation. Although economic reasons may be important, genuine interest is the key to success.",
+          "The Computer Basic Structure input, output, memory, and control units ",
+          "The input unit is the one that receives data entered by users, normally through devices such as the mouse or keyboard. When a key is pressed, the matching letter or number is sent to the memory or the processor and does a compilation which is translated to binary code (computer language). A compiler is a program that translates human language to machine language.",
+          "The output unit is in charge of sending the results as information after processing the data entered by the user. Data are integers and encoded characters. The term data is frequently used to refer to any digital information even if it's just a character.",
+          "The memory unit stores program data. The memory has a large number of semiconductor storage cells, each capable of storing one bit. To this day, most computers use 32 or 64 bits.",
+          "The Control Unit coordinates the processes from instructions and identifies the devices involved and the data to process.",
+          "How the web works",
+          "The web works with the following components to facilitate user-machine interaction:",
+          "The Client is a regular computer or any device connected to the internet that interacts with a user taking user inputs and translating them to another computer called a web server. A browser is used in the client-server model.",
+          "The Server is a computer connected to the internet that hosts websites and waits for other machines' requests so they return a response. A web server stores, processes, and delivers an output to clients.",
+          "TCP/IP: Transmission Control Protocol/Internet Protocol. It’s a widely used standard communication protocol to transmit data over networks.",
+          "The IP address is the Internet protocol for locating a device on the network. Each device connected to the Internet has an IP address, which is needed to communicate with other machines. The format of this address is a set of 4 numbers separated by periods (e.g. 179.19.107.124).",
+          "The Domain Name is a unique address for a website consisting of the site name and the domain name extension. The domain name must be human-friendly (e.g example.com). The domain name works as a link to the IP address.",
+          "HTTP stands for  Hyper-text Transfer Protocol. It's a standard used to communicate web browsers and web servers across the Internet.",
+          "The URL stands for Uniform Resource Locators. It identifies a web resource (e.g https://example.com), the protocol (e.g https), and the hostname (e.g example.com).",
+          "Repository",
+          "It’s a storage location for software packages, kind of like a save button for files and directories. We use a version control system called Git that locally stores our software packages and allows us to push software projects to remote storage facilities such as GitHub, Bitbucket or GitLab. This way developers can have portfolios in the cloud and make sure that projects are in a safe place.",
+          "Program",
+          "A program is stored in memory as a set of instructions that executes a computer operation. They need compilers - machine translators - to convert source code into machine code using languages such as C, C++, Java, Javascript, and many more. Text editors are used to develop software programs.",
+          "Frontend",
+          "This is what users see, the graphical user interface of a website. Its main technologies are Javascript, HTML, CSS, Flutter, Vue, and everything that goes with it (React, Angular, Web Assembly, Bootstrap, Tailwind, etc.). The front end must be intuitive and easy to use. An application developed for mobile could be significantly different from a desktop application.",
+          "Backend",
+          "This takes care of all server-side development users do not see what happens behind the scenes. It includes databases such as SQL, MySql, PostgreSQL, SQLite, etc. Some popular backend languages are Python with frameworks like Flask or Django or libraries like Numpy, Ruby and its RoR framework, the Golang language created by Google, Rust created by Mozilla Foundation, PHP and its Laravel framework, and of course NodeJS which is the server-side JavaScript. Javascript is a versatile language that can be backend or frontend.",
+          "There are also FullStack developers. These guys write code in backend and frontend.",
+          "DevOps - Development & Operations",
+          "This is not only programming but a whole culture, a set of practices that includes (CI)  continuous integration and (CD) continuous delivery.  The DevOps guys work with networks and servers. They are responsible for doing the integration, deployment, and monitoring of the development as well as the entire technology infrastructure of an organization, if something fails, everything fails and only they can solve it.",
+          "The infinity loop seen in the image below symbolizes the constant need for collaboration and iterative improvement throughout the whole life cycle.",
+          "Its technologies are Ansible or Terraform, containers used by Docker servers, network infrastructures supported by technologies like those provided by Amazon Web Services or Raise Firewalls, and monitoring tools such as Nagios. It’s surely a demanding and complex job.",
+          "There are affordable or even free boot camps like The Odin Project or freeCodeCamp.  Courses on platforms like Coursera, EdX, Udemy, Udacity, and many more. Take advantage of the web as much as you can."
+        ]
+      },
+      {
+        "writtenBy": "Written by Karen Campo"
+      }
+    ]
+  },
+  {
+    "date": "August 16, 2022",
+    "shortDescription": "Java is one of the most popular programming languages so far since its first release in 1995.  ",
+    "path": "/blog/2022-08-16-latest-java-trends-to-keep-in-mind",
+    "title": "Latest Java Trends to Keep in Mind",
+    "details": [
+      {
+        "fullDescription": [
+          "Java is one of the most popular programming languages so far since its first release in 1995. Today it is still being used for enterprise applications.",
+          "At the enterprise level, it has been useful due to its special characteristics such as interoperability and big support in terms of security which allowed Java to be one of the most used technologies recently and trending.",
+          "Recently, the latest 2022 JRebel Java productivity report shows a change in tendencies in the most used JAVA LTS (Long term support) version which was dominated by Java 8 up until a few months ago. Now we can see Java 11 is taking the throne.",
+          "In the next paragraphs, we’re going to take a look at technology keeping Java programming language as an option to develop in different areas in 2022.",
+          "Spring Framework:",
+          "Spring is a Lightway framework that has gained popularity because of its multiple projects and libraries like data, security, integration, cloud, etc,",
+          "After the release of Spring boot 2, many developers are taking advantage to develop backend services, microservices, and serverless applications.",
+          "The recent JRebel report shows spring boot growth as the main application framework used for microservices implementations.",
+          "Big Data ",
+          "Large data should be analyzed precisely even when data stored grows quickly.",
+          "Java takes part in Big Data combined with open-source-based tools like Apache (Hadoop, Spark, Mahout), and Deeplearning4j which allows larger data problem-solving.",
+          "AI (Artificial intelligence)",
+          "Artificial intelligence is one of those technologies which has gained popularity in the last years.",
+          "Java is no stranger to AI and is used by many developers based on its main strengths (maintainability, portability, security).",
+          "Multiple libraries have been developed to be used in Java on different AI topics.",
+          "Expert systems:",
+          "Neural Networks:",
+          "Natural language processing:",
+          "Machine learning:",
+          "Genetic Algorithms:",
+          "Automatic Programming:",
+          "Cloud computing",
+          "Cloud computing brings the ability to use resources provided by a third-party company in order to reduce infrastructure maintenance.",
+          "Many companies prefer to have data using cloud-based applications instead of stand alones because they are easier to access from multiple locations.",
+          "Java security and interoperability make cloud computing-based applications available from different Operating systems (Linux, Mac, Windows, Android, iOS)",
+          "Serverless Architecture:",
+          "Serverless architecture defines an application that runs without the need to manage the infrastructure of a physical server.",
+          "Java is a great language for serverless because it works well with different tools for cloud computing technologies like Oracle cloud service, Google Cloud Platform, and AWS.",
+          "AWS Lambda functions with Java implementations have been more popular due to large amazon libraries support keeping developers focused on the main product.",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "writtenBy": "Written by Juan Torres"
+      }
+    ]
+  },
+  {
+    "date": "August 05, 2022",
+    "shortDescription": "Define the project in general terms. (Set up a project management plan)",
+    "path": "/blog/2022-08-05-5-tips-for-project-management",
+    "title": "5 Tips for Project Management",
+    "details": [
+      {
+        "fullDescription": [
+          "1. Define the project in general terms. (Set up a project management plan)",
+          "Asking yourself the following questions can help:",
+          "2. Project Planning",
+          "Set clear goals using a project roadmap. (Keep project documentation in order). Remember that the project files are temporary in that they will only be used until the project is complete. While there are several ways to execute goal planning, SMART goals, CLEAR goals, and Objectives and Key Results (OKRs) are three project planning strategies that can help you get started.",
+          "3. Project Execution",
+          "In this stage, your team will focus on achieving the goals that have been set. They will use the information gathered in the first two steps to build and launch the project within the specified time frame through teamwork and collaboration.",
+          "4. Project Performance",
+          "Measure project effectiveness with key performance indicators (KPIs). Define and achieve strategic objectives (consider initial project objectives, analyze key performance indicators, share performance with participants).",
+          "5. Project Closing",
+          "Organize an analysis meeting with the project participants. This phase is the one that varies the most between different companies and teams. While some like to acknowledge hard work, others like to get started on the next important task right away. There is no right or wrong way to close a project, and it's up to you to figure out what works best for you and your team.",
+          "When closing a project, a good practice is to meet with the project participants to get a more detailed view of the success.",
+          ""
+        ]
+      },
+      {
+        "writtenBy": "Written by Mauricio Mejía"
+      }
+    ]
+  }
+]
